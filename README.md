@@ -36,8 +36,8 @@
     * 화면공유 기능 개발
     * 화이트보드기능개발
     * 원격제어 기능 개발
-  * 사용기술: Objective-C, Xcode
-  * 개발환경: macOS
+  * 사용기술: Objective-C
+  * 개발환경: macOS, Xcode
 * Enterprise Mobility Management (EMM)
   * 2014.04 ~ 2015.09
   * 직원들의 모바일 단말을 관리하기 위한 기업용 통합 솔루션. MDM뿐만 아니라 단말에 설치되는 앱 관리(MAM), 인증서 관리 모듈과 여러 가지 비즈니스 앱 등을 통합적으로 제공하는 솔루션
